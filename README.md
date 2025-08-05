@@ -1,1 +1,1 @@
-# new-project-
+# DIFFUSION_MODEL_IMAGE_GPT
